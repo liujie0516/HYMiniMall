@@ -7,6 +7,8 @@
 
 课程代码：https://github.com/coderwhy/LearnMiniProgram
 
+数据地址：http://123.207.32.32:8000/api/v1/home/multidata
+
 课程大纲：
 
 <img src="http://ww1.sinaimg.cn/large/006qtd2Tgy1g4mcohirioj30te0fc0tx.jpg"/>
